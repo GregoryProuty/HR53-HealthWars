@@ -7,4 +7,4 @@ app.listen(port, function() {
   console.log('Listening on port', port);
 });
 
-mongoose.connect('mongodb://localhost/healthwars');
+mongoose.connect('ds145039.mlab.com:45039/heroku_tm1zwt24');
